@@ -1,0 +1,14 @@
+C:\Users\bluek\Documents\RegicideSolitare\RegicideSolitare\obj\Debug\net8.0\RegicideSolitare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bluek\Documents\RegicideSolitare\RegicideSolitare\obj\Debug\net8.0\RegicideSolitare.AssemblyInfoInputs.cache
+C:\Users\bluek\Documents\RegicideSolitare\RegicideSolitare\obj\Debug\net8.0\RegicideSolitare.AssemblyInfo.cs
+C:\Users\bluek\Documents\RegicideSolitare\RegicideSolitare\obj\Debug\net8.0\RegicideSolitare.csproj.CoreCompileInputs.cache
+C:\Users\bluek\Documents\RegicideSolitare\RegicideSolitare\bin\Debug\net8.0\RegicideSolitare.exe
+C:\Users\bluek\Documents\RegicideSolitare\RegicideSolitare\bin\Debug\net8.0\RegicideSolitare.deps.json
+C:\Users\bluek\Documents\RegicideSolitare\RegicideSolitare\bin\Debug\net8.0\RegicideSolitare.runtimeconfig.json
+C:\Users\bluek\Documents\RegicideSolitare\RegicideSolitare\bin\Debug\net8.0\RegicideSolitare.dll
+C:\Users\bluek\Documents\RegicideSolitare\RegicideSolitare\bin\Debug\net8.0\RegicideSolitare.pdb
+C:\Users\bluek\Documents\RegicideSolitare\RegicideSolitare\obj\Debug\net8.0\RegicideSolitare.dll
+C:\Users\bluek\Documents\RegicideSolitare\RegicideSolitare\obj\Debug\net8.0\refint\RegicideSolitare.dll
+C:\Users\bluek\Documents\RegicideSolitare\RegicideSolitare\obj\Debug\net8.0\RegicideSolitare.pdb
+C:\Users\bluek\Documents\RegicideSolitare\RegicideSolitare\obj\Debug\net8.0\RegicideSolitare.genruntimeconfig.cache
+C:\Users\bluek\Documents\RegicideSolitare\RegicideSolitare\obj\Debug\net8.0\ref\RegicideSolitare.dll
